@@ -1,9 +1,9 @@
 # <img src="https://kometa.wiki/en/nightly/assets/logo-full.png" alt="Kometa Logo">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/kometa-Team/Kometa?style=plastic)](https://github.com/kometa-Team/Kometa/releases)
-[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/kometa-team/kometa?label=docker&sort=semver&style=plastic)](https://hub.docker.com/r/kometa-team/kometa)
-[![Docker Pulls](https://img.shields.io/docker/pulls/kometa-team/kometa?style=plastic)](https://hub.docker.com/r/kometa-team/kometa)
-[![Develop GitHub commits since latest stable release (by SemVer)](https://img.shields.io/github/commits-since/kometa-team/kometa/latest/develop?label=Commits%20in%20Develop&style=plastic)](https://github.com/kometa-Team/Kometa/tree/develop)
+[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/kometa-team/kometa?label=docker&sort=semver&style=plastic)](https://hub.docker.com/r/kometateam/kometa)
+[![Docker Pulls](https://img.shields.io/docker/pulls/kometa-team/kometa?style=plastic)](https://hub.docker.com/r/kometateam/kometa)
+[![Develop GitHub commits since latest stable release (by SemVer)](https://img.shields.io/github/commits-since/kometateam/kometa/latest/develop?label=Commits%20in%20Develop&style=plastic)](https://github.com/kometa-Team/Kometa/tree/develop)
 [![Nightly GitHub commits since latest stable release (by SemVer)](https://img.shields.io/github/commits-since/kometa-team/kometa/latest/nightly?label=Commits%20in%20Nightly&style=plastic)](https://github.com/kometa-Team/Kometa/tree/nightly)
 
 [![Discord](https://img.shields.io/discord/822460010649878528?color=%2300bc8c&label=Discord&style=plastic)](https://kometa.wiki/en/latest/discord/)
